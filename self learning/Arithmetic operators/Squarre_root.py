@@ -1,0 +1,6 @@
+# Square root of a number
+
+#print the value...
+num = float(input("Enter number: "))
+#output....
+print("Square root:", num ** 0.5)

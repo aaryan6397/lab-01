@@ -1,0 +1,9 @@
+#  Floor Division and Modulus
+
+#print the numbers.....
+num1 = int(input("Enter the number : "))
+num2 = int(input("Enter the number : "))
+#this is a floor output...
+print("Quotient (Floor):", num1 // num2)
+#this is a remainder.....
+print("Remainder:", num1 % num2)
